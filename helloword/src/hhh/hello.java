@@ -2,6 +2,7 @@ package hhh;
 
 public class hello {
 public static void main(String[] args) {
-	System.out.println("ÎÒÊÇÎâºÆÎÒÅÂË­");
+	System.out.println("ÃÃ’ÃŠÃ‡ÃÃ¢ÂºÃ†ÃÃ’Ã…Ã‚Ã‹Â­");
+	System.out.println("111");
 }
 }
